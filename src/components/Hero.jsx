@@ -21,14 +21,14 @@ const Hero = () => {
 
       <h1 className='head_text'>
         Summarize Articles with <br className='max-md:hidden' />
-        <span className='orange_gradient '>Chromakop A.I</span>
+        <span className='orange_gradient '>Artsumrz</span>
       </h1>
       <h2 className="desc"></h2>
       <h2 className='desc'>
-      The stories we coulda wrote if our egos didn't take the pen.    
+      Made with love.    
       </h2>
       <h2 className="desc">
-      - Tyler, The Creator
+      - Suw!
       </h2>
     </header>
   );
